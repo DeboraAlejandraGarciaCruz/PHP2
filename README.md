@@ -18,3 +18,4 @@ El proyecto consta de los siguientes archivos:
    respuesta con el resumen del pedido.
 - **Almacenamiento de Pedido**: Los pedidos realizados se almacenan en un archivo de texto ubicado en el servidor para su
   posterior revisión.
+- **Visualización de Pedidos**: A través de `vieworders.php`, se pueden consultar todos los pedidos almacenados en el archivo.
