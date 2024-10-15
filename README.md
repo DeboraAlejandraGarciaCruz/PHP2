@@ -21,3 +21,4 @@ El proyecto consta de los siguientes archivos:
 - **Visualización de Pedidos**: A través de `vieworders.php`, se pueden consultar todos los pedidos almacenados en el archivo.
 
 ## Cómo Usar el Sistema
+1. **Descarga o clona el repositorio** en tu servidor local.
