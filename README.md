@@ -32,3 +32,5 @@ El proyecto consta de los siguientes archivos:
 ## Requisitos
 - **PHP**: El servidor debe tener PHP instalado y configurado.
 - **Servidor Web**: Requiere un entorno como Apache para ejecutar archivos PHP.
+
+## Instalación
