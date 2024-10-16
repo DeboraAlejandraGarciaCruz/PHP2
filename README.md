@@ -34,3 +34,4 @@ El proyecto consta de los siguientes archivos:
 - **Servidor Web**: Requiere un entorno como Apache para ejecutar archivos PHP.
 
 ## Instalación
+1. **Clona el repositorio** en tu máquina local.
