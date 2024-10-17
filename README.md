@@ -44,3 +44,4 @@ El proyecto consta de los siguientes archivos:
 - **Almacenamiento**: Los detalles del pedido se guardarán en el archivo de texto y podrán ser visualizados usando `vieworders.php`.
 
 ## Autor
+Debora Alejandra Garcia Cruz
