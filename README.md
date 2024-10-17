@@ -40,3 +40,4 @@ El proyecto consta de los siguientes archivos:
    
 ## Ejemplo de Uso
 - **Formulario de Pedido**: Completa las cantidades de productos y proporciona la dirección de envío en `orderform.html`.
+- **Proceso del Pedido**: Revisa el resumen del pedido y los totales calculados en `processorder.php`.
